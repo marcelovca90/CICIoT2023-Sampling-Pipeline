@@ -1,0 +1,14 @@
+jupyterlab
+pandas
+scikit-learn
+imbalanced-learn
+tabulate
+shap-hypetune
+ipywidgets
+optuna
+plotly
+papermill
+pyarrow
+lightgbm
+xgboost
+matplotlib
