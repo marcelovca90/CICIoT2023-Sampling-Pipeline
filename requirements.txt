@@ -12,3 +12,4 @@ pyarrow
 lightgbm
 xgboost
 matplotlib
+dtype_diet
